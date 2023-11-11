@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\bin\Debug\netcoreapp3.1\sınav çalışması12.exe
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\bin\Debug\netcoreapp3.1\sınav çalışması12.deps.json
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\bin\Debug\netcoreapp3.1\sınav çalışması12.runtimeconfig.json
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\bin\Debug\netcoreapp3.1\sınav çalışması12.runtimeconfig.dev.json
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\bin\Debug\netcoreapp3.1\sınav çalışması12.dll
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\bin\Debug\netcoreapp3.1\sınav çalışması12.pdb
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\obj\Debug\netcoreapp3.1\sınav çalışması12.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\obj\Debug\netcoreapp3.1\sınav_çalışması12.Form1.resources
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\obj\Debug\netcoreapp3.1\sınav çalışması12.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\obj\Debug\netcoreapp3.1\sınav çalışması12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\obj\Debug\netcoreapp3.1\sınav çalışması12.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\obj\Debug\netcoreapp3.1\sınav çalışması12.AssemblyInfo.cs
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\obj\Debug\netcoreapp3.1\sınav çalışması12.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\obj\Debug\netcoreapp3.1\sınav çalışması12.dll
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\obj\Debug\netcoreapp3.1\sınav çalışması12.pdb
+C:\Users\PC\source\repos\sınav çalışması12\sınav çalışması12\obj\Debug\netcoreapp3.1\sınav çalışması12.genruntimeconfig.cache
